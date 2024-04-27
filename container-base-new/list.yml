@@ -1,0 +1,16 @@
+---
+SCOPED:
+- name: MsPASS
+  status: containerized
+- name: MTUQ
+  status: containerized
+- name: Pyatoa
+  status: containerized
+- name: Specufex
+  status: containerized
+- name: adjTomo
+  status: containerized
+- name: pysep
+  status: containerized
+- name: SeisSol
+  status: containerized
